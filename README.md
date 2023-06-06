@@ -5,8 +5,6 @@ This repository contains the code for an ESP32-based Telegram bot that provides 
 # Features
 - Retrieves temperature and luminosity readings from DS18B20 and Max44009 sensors, respectively.
 - Sends the collected data to a Telegram bot for remote monitoring.
-- Supports multiple users and can send information to multiple chat IDs.
-- Requires correct credentials and a valid bot token for authentication.
 
 # Prerequisites
 To use this code, you will need the following:
